@@ -1,4 +1,4 @@
-# Exercício de Fixação 1 - C#
+# Exercício da Aula  1 - C#
 
 Este projeto é um exercício de fixação desenvolvido em C# (.NET 8), com o objetivo de praticar a declaração de variáveis, tipos de dados e formatação de saída no console.
 
